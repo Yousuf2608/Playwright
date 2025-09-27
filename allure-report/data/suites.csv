@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","4191","Verify the login with locked_out_user","chromium","Sat Sep 27 20:37:11 BDT 2025","passed","Sat Sep 27 20:37:15 BDT 2025","Verify the login","Question_1.spec.js","",""
-"","19573","Verify the purchase_2 journey with performance_glitch_user","chromium","Sat Sep 27 20:37:11 BDT 2025","passed","Sat Sep 27 20:37:30 BDT 2025","Verify the purchase_2 journey","Question_3.spec.js","",""
-"","4819","Verify the Purchase Journey with standard_user","chromium","Sat Sep 27 20:37:11 BDT 2025","passed","Sat Sep 27 20:37:16 BDT 2025","Verify the Purchase Journey","Question_2.spec.js","",""
+"","4011","Verify the Purchase Journey with standard_user","chromium","Sat Sep 27 22:27:46 BDT 2025","passed","Sat Sep 27 22:27:50 BDT 2025","Verify the Purchase Journey","Question_2.spec.js","",""
+"","3690","Verify the login with locked_out_user","chromium","Sat Sep 27 22:27:42 BDT 2025","passed","Sat Sep 27 22:27:46 BDT 2025","Verify the login","Question_1.spec.js","",""
+"","22351","Verify the purchase_2 journey with performance_glitch_user","chromium","Sat Sep 27 22:27:50 BDT 2025","passed","Sat Sep 27 22:28:12 BDT 2025","Verify the purchase_2 journey","Question_3.spec.js","",""
