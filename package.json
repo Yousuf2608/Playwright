@@ -13,7 +13,7 @@
     "test_3": "npx playwright test tests/specs/Question_3.spec.js --headed"
   },
   "keywords": [],
-  "author": "",
+  "author": "ABIR",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.55.1",
