@@ -1,7 +1,7 @@
 {
   "name": "osatd_assignment",
   "version": "1.0.0",
-  "description": "",
+  "description": "PLaywright",
   "main": "index.js",
   "type": "module",
   "scripts": {
